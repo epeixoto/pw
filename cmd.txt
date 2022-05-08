@@ -1,0 +1,23 @@
+#Instalar o angular
+npm i -g @angular/cli
+
+#Criar uma App no Angular
+ng new nomeApp
+
+#Criar um componente no Angular
+ng g c nomecomponente
+
+#Iniciar o serviço
+npm start
+
+#Instalar packages Bootstrap:
+npm install bootstrap --save
+npm install jquery --save
+npm install popper.js --save
+
+#tutorial
+https://angular.io/tutorial
+
+#Bootstrap
+https://startbootstrap.com/
+ttps://getbootstrap.com/docs/5.1/
